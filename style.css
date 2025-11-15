@@ -49,7 +49,7 @@ body{
   font-size:clamp(32px, 7vw, 96px);
 
   /* 텍스트 안에 사진 채우기 */
-  background-image: url('001.jpeg');
+  background-image: url('001.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -196,7 +196,7 @@ text-shadow:
   inset:0;
   opacity:.08;
   mix-blend-mode:overlay;
-  background-image:url('images/grain.png');
+  background-image:url('images/grain.jpg');
 }
 
 /* ===== RESPONSIVE ===== */
